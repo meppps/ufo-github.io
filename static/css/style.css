@@ -1,0 +1,19 @@
+.nav-ufo{
+    margin-top: -10px;
+}
+
+#filter-btn,#reset-btn {
+    background-color: red;
+    color: #fff;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+#filter-btn{
+    margin-bottom: 10px;
+    margin-left: 20%;
+}
+
+#reset-btn{
+    margin-left: 35px;
+}
